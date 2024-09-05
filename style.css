@@ -1,0 +1,39 @@
+.background-mood{
+    background-color: #f1f5f9;
+    border-radius: 50px;
+    width: 3vw;
+    height: 6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-icon{
+    width: 20%;
+    height: 4vh;
+}
+
+.preview-button{
+    background-color: #38a169;
+    color: white;
+}
+
+.media-button{
+    background-color: #f1f5f9;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+.purple-text{
+    color: #7b53fe;
+}
+
+.gray-text{
+    color: #6d86a4;
+    text-align: center;
+}
