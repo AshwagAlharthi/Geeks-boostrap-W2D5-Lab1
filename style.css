@@ -1,4 +1,4 @@
-.background-mood{
+.background-mood {
     background-color: #f1f5f9;
     border-radius: 50px;
     width: 3vw;
@@ -8,17 +8,17 @@
     align-items: center;
 }
 
-.image-icon{
+.image-icon {
     width: 20%;
     height: 4vh;
 }
 
-.preview-button{
+.preview-button {
     background-color: #38a169;
     color: white;
 }
 
-.media-button{
+.media-button {
     background-color: #f1f5f9;
     color: black;
 }
@@ -29,11 +29,21 @@ a {
     color: black;
 }
 
-.purple-text{
+.purple-text {
     color: #7b53fe;
 }
 
-.gray-text{
+.gray-text {
     color: #6d86a4;
+    text-align: center;
+}
+
+.white-box {
+    background-color: white;
+    width: 45%;
+    height: 30vh;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    font-weight: bold;
     text-align: center;
 }
